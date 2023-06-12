@@ -70,3 +70,16 @@
         height: 12rem;
     }
 }
+
+.alerta{
+    width: 200px;
+    text-align: center;
+    margin: auto;
+    color: #B06AB3;
+    padding-top: 20px;
+}
+
+.formularioIncorrecto{
+    color: red;
+    display: none;
+}
